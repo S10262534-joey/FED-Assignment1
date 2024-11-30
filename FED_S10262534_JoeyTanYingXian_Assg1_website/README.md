@@ -14,8 +14,10 @@ This website consists of 3 pages. The Homepage, profile page and music page. Eac
 
 ## Technologies Used
 
+GitHub
 Visual Studio Code - https://code.visualstudio.com/
 CSS, HTML, JavaScript libraries on Visual Studio Code by Microsoft
+Figma for Wireframe
 
 
 ## Credits
@@ -34,3 +36,7 @@ Google Font - https://fonts.google.com/specimen/Alumni+Sans
 ### Acknowledgements
 
 - I received inspiration for this project from YOASOBI and JYP website.
+
+### Links
+Figma Wireframe - https://www.figma.com/design/O7xjG9zZIG0w0nURRpsUum/FED_S10262534_JoeyTanYingXian_Assg1_wireframe?node-id=0-1&t=UcJt5Y4eY31Euw0x-1
+GitHub Link - 
