@@ -39,4 +39,4 @@ Google Font - https://fonts.google.com/specimen/Alumni+Sans
 
 ### Links
 Figma Wireframe - https://www.figma.com/design/O7xjG9zZIG0w0nURRpsUum/FED_S10262534_JoeyTanYingXian_Assg1_wireframe?node-id=0-1&t=UcJt5Y4eY31Euw0x-1
-GitHub Link - 
+GitHub Link - https://github.com/S10262534-joey/FED-Assignment1.git
