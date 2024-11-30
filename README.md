@@ -4,13 +4,12 @@ This is a website of an artist called SEVENTEEN. This website aims to give fans 
  
 ## Design Process
 
+While designing, i stand in the fan point of view on what do they want to see in their website. This website provide ample information on the group and other information as well. For the colours, i used blue and pink as it is their official colours.
 
 
 ## Features
 
-
-
-### Features Left to Implement
+This website consists of 3 pages. The Homepage, profile page and music page. Each section displays relevant information relted to the page header.
 
 
 ## Technologies Used
@@ -21,12 +20,17 @@ CSS, HTML, JavaScript libraries on Visual Studio Code by Microsoft
 
 ## Credits
 
+Wikipedia - https://en.wikipedia.org/wiki/Right_Here_World_Tour
+Spotify - https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH
+
 
 
 ### Content & Media
 
+Images&Videos - images folder
+Google Font - https://fonts.google.com/specimen/Alumni+Sans
 
 
 ### Acknowledgements
 
-- I received inspiration for this project from the YOASOBI website
+- I received inspiration for this project from YOASOBI and JYP website.
