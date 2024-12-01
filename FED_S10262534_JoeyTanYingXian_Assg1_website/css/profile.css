@@ -1,4 +1,3 @@
-
 button {
   font-family: "Alumni Sans", sans-serif;
   font-size: 25px;
@@ -6,47 +5,46 @@ button {
 
 /* Style the tab */
 .tab {
-    overflow: hidden;
-    border-bottom: 1px solid #ccc;
-    margin-top: 10px;
-    text-align: center;
-  }
-  
-  /* Style the buttons that are used to open the tab content */
-  .tab button {
-    background-color: inherit;
-    border: none;
-    outline: none;
-    cursor: pointer;
-    padding: 14px 16px;
-  }
-  
-  /* Change background color of buttons on hover */
-  .tab button:hover {
-    background-color: #ddd;
-  }
-  
-  /* Create an active/current tablink class */
-  .tab button.active {
-    background-color: #ccc;
-  }
-  
-  /* Style the tab content */
-  .tabcontent {
-    text-align: center;
-    display: none;
-    padding: 6px 12px;
-    border: none;
-  }
+  overflow: hidden;
+  border-bottom: 1px solid #ccc;
+  margin-top: 10px;
+  text-align: center;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  text-align: center;
+  display: none;
+  padding: 6px 12px;
+  border: none;
+}
 
 .profile-img {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .profile-img img {
-    padding: 10px;
-    width: 30%;
+  padding: 10px;
+  width: 30%;
 }
-

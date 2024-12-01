@@ -29,10 +29,24 @@ nav {
 .background-img img {
     width: 100%;
 }
+
 footer {
+    text-align: center;
+    padding: 10px;
     bottom: 0;
-    width: 100%;
-    align-items: baseline;
     background-color: #91A8D0;
     color: white;
+}
+
+footer p {
+    margin-bottom: 15px;
+}
+
+.socials {
+    margin: 0px;
+}
+
+.socials img {
+    margin: 0px 10px;
+    width: 25px;
 }
