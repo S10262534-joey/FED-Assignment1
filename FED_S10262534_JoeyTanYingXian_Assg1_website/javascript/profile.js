@@ -20,3 +20,5 @@ function showPopup(element) {
     var caption = element.querySelector('.popup-caption');
     caption.style.display = caption.style.display === 'block' ? 'none' : 'block';
 }
+
+
