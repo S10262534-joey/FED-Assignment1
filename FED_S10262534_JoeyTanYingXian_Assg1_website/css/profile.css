@@ -1,15 +1,20 @@
+
+button {
+  font-family: "Alumni Sans", sans-serif;
+  font-size: 25px;
+}
+
 /* Style the tab */
 .tab {
     overflow: hidden;
     border-bottom: 1px solid #ccc;
     margin-top: 10px;
-    align-content: center;
+    text-align: center;
   }
   
   /* Style the buttons that are used to open the tab content */
   .tab button {
     background-color: inherit;
-    float: left;
     border: none;
     outline: none;
     cursor: pointer;
